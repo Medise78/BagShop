@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">فروشگاه کیف</string>
+    <string name="price">تومان</string>
+    <string name="comments">نظرات</string>
+    <string name="add_new_comment">نظر جدید</string>
+    <string name="cancel">لغو</string>
+    <string name="ok">حله</string>
+    <string name="success">موفقیت امیز بود</string>
+    <string name="pay_using_zarinpal">پرداخت با زرین پال</string>
+    <string name="there_is_problem_in_payment">مشکلی در پرداخت وجود دارد</string>
+    <string name="add_location_data">اضافه کرد ادرس</string>
+    <string name="your_address">ادرس</string>
+    <string name="your_postal_code">کد پستی</string>
+    <string name="write_your_comment">نوشتن نظر</string>
+    <string name="write_something">متن پیام</string>
+    <string name="please_write_first">لطفا مقدار را پر کنید</string>
+    <string name="please_add_some_products_first">لطفا سبد خرید را پر کنید</string>
+    <string name="save_to_profile">ذخیره در پروفایل</string>
+    <string name="please_enter_your_information">اطلاعات خود را وارد کنید</string>
+    <string name="category">Category</string>
+</resources>

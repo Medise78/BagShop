@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BagShop</string>
+    <string name="price">Dollars</string>
+    <string name="comments">Comments</string>
+    <string name="add_new_comment">Add New Comment</string>
+    <string name="write_your_comment">Write your comment</string>
+    <string name="write_something">Write something</string>
+    <string name="cancel">Cancel</string>
+    <string name="please_write_first">Please Write First</string>
+    <string name="ok">Ok</string>
+    <string name="success">Success</string>
+    <string name="pay_using_zarinpal">Pay Using Zarinpal</string>
+    <string name="there_is_problem_in_payment">There is Problem In Payment</string>
+    <string name="please_add_some_products_first">Please add some products first</string>
+    <string name="add_location_data">Add Location Data</string>
+    <string name="your_address">Your address ...</string>
+    <string name="your_postal_code">Your Postal Code ...</string>
+    <string name="save_to_profile">Save To Profile</string>
+    <string name="please_enter_your_information">Please enter your information</string>
+    <string name="category">Category</string>
+</resources>
